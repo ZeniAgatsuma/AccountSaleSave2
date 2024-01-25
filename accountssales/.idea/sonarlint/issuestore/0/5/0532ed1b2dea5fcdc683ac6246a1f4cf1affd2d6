@@ -1,0 +1,29 @@
+
+c
+java:S1192%"FDefine a constant instead of duplicating this literal ".json" 4 times.(ÿáİŒ8Ó×ÿƒÔ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(··İè8–œöìÓ1
+L	java:S106"+Replace this use of System.out by a logger.(İÔœªıÿÿÿÿ8æÏ¾íÓ1
+c
+java:S2133/"ARemove this object instantiation and use "HashSet.class" instead.(¯šÓûÿÿÿÿ8†·ƒ„Ô1
+G	java:S106="+Replace this use of System.out by a logger.(¦8ÙêÿƒÔ1
+G	java:S106H"+Replace this use of System.out by a logger.(€Âå‚8áêÿƒÔ1
+H
+java:S1168I"+Return an empty collection instead of null.(¥¹ï8ÚêÿƒÔ1
+H
+java:S1168T"+Return an empty collection instead of null.(¥¹ï8ßêÿƒÔ1
+G	java:S106\"+Replace this use of System.out by a logger.(ı¾˜8ãêÿƒÔ1
+L	java:S106c"+Replace this use of System.out by a logger.(ê¬õüÿÿÿÿ8åêÿƒÔ1
+L	java:S106o"+Replace this use of System.out by a logger.(½åëşÿÿÿÿ8èêÿƒÔ1
+G	java:S106{"+Replace this use of System.out by a logger.(€Âå‚8êêÿƒÔ1
+H	java:S106…"+Replace this use of System.out by a logger.(Şå§‘8ìêÿƒÔ1
+H	java:S106"+Replace this use of System.out by a logger.(ı¾˜8îêÿƒÔ1
+M	java:S106–"+Replace this use of System.out by a logger.(²¥èûúÿÿÿÿ8ûÌƒ„Ô1
+M	java:S106˜"+Replace this use of System.out by a logger.(ÍŒÎÀüÿÿÿÿ8üÌƒ„Ô1
+H	java:S106š"+Replace this use of System.out by a logger.(ê¾ú®8ıÌƒ„Ô1
+H	java:S106¡"+Replace this use of System.out by a logger.(¥Ü¶¡8Íƒ„Ô1
+M	java:S106ª"+Replace this use of System.out by a logger.(–Â¶åúÿÿÿÿ8†Íƒ„Ô1
+H	java:S106¬"+Replace this use of System.out by a logger.(ÆÖ’Ÿ8‡Íƒ„Ô1
+H	java:S106®"+Replace this use of System.out by a logger.(Òà´Ç8ˆÍƒ„Ô1
+J
+java:S3011¶",This accessibility update should be removed.(˜ÂÓ˜8Íƒ„Ô1
